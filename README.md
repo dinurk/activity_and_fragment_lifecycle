@@ -10,7 +10,7 @@
 ## Скриншоты работы приложения
 
 <div style="display:flex; gap: 10px">
-<img src="screenshots/screenshot1.jpg" width="180"/>
-<img src="screenshots/screenshot2.jpg" width="180"/>
-<img src="screenshots/screenshot3.jpg" width="180"/>
+<img src="screenshots/screenshot1.jpg" style="border: solid 1px white" width="180"/>
+<img src="screenshots/screenshot2.jpg" style="border: solid 1px white" width="180"/>
+<img src="screenshots/screenshot3.jpg" style="border: solid 1px white" width="180"/>
 </div>
